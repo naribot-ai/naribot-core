@@ -1,0 +1,20 @@
+# Contributing to NariBot
+
+First off, thank you for considering contributing to NariBot! It is people like you who help build tools that actually reach the next billion.
+
+## 🤝 How to Get Involved
+
+### 1. Report Bugs
+If you find a technical glitch in our USSD logic or AI response patterns, please open an "Issue" in this repository.
+
+### 2. Suggest Improvements
+Have an idea for a better vernacular prompt or a more efficient channel adapter? We want to hear it.
+
+### 3. Documentation
+Helping us improve the technical wiki or translate documentation into regional languages is one of the most impactful ways to contribute.
+
+## 📜 Code of Conduct
+We are committed to a welcoming and inclusive environment for all contributors, regardless of background or technical skill level.
+
+## ⚖️ License
+By contributing, you agree that your contributions will be licensed under the Apache License 2.0.
