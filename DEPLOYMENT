@@ -1,0 +1,24 @@
+# Deployment Guide
+
+This guide covers the steps to deploy the NariBot orchestration engine to a production environment using Google Cloud Platform (GCP).
+
+## ☁️ Environment Setup
+
+### 1. Google Cloud Project
+* Ensure a GCP project is created and billing is enabled.
+* Enable the following APIs:
+    * Cloud Run API
+    * Cloud Build API
+    * Secret Manager API (for Gemini API Keys)
+
+### 2. Firebase Integration
+* Initialize Firebase in the project for Firestore (Database) and Auth.
+* Ensure the service account has `Cloud Datastore User` permissions.
+
+## 🚀 Deployment Steps
+
+### Containerization
+We use Docker to package the FastAPI application.
+```bash
+# Build the image
+gcloud builds submit --tag gcr.io/[PROJECT_ID]/naribot-core <to be updated soon>
