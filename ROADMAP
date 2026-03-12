@@ -1,0 +1,24 @@
+# NariBot Strategic Roadmap
+
+This roadmap outlines the evolution of NariBot from a localized pilot to a scalable Digital Public Good (DPG).
+
+## 📍 Phase 1: Pilot & Validation (Q1 2026)
+* **Target:** 1,000–2,000 women entrepreneurs and job seekers (UP, Maharashtra, Karnataka).
+* **Focus:** Hardening the vernacular AI "reasoning" for livelihood matching.
+* **Infrastructure:** Deployment of core logic on Google Cloud & Firebase.
+* **User Interface:** Alpha testing of USSD menu trees and IVR voice-flows.
+
+## ⚙️ Phase 2: Architecture Hardening
+* **Scalability:** Optimization of LLM latency for real-time voice interaction.
+* **Interoperability:** Implementation of standardized "Adapters" for various sovereign gateways (including Bhashini and long-code providers).
+* **Language Expansion:** Deepening support for regional dialects.
+
+## 🔓 Phase 3: Open Ecosystem & Integration
+* **Modularization:** Releasing specific "Prompts-as-Code" for other social impact builders to reuse.
+* **NGO Integration:** Providing templates for NGOs to map their own local livelihood datasets.
+* **Open Source Growth:** Moving from a closed pilot to a community-contributed codebase.
+
+## 📜 Phase 4: DPG Certification & Governance
+* **DPG Registry:** Formal application to the Digital Public Goods Alliance.
+* **Open Governance:** Establishing a framework for community contributions and data ethics.
+* **Sustainability:** Finalizing "impact-first" models to ensure the infrastructure remains free for end-users.
