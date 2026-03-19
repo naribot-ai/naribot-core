@@ -22,3 +22,33 @@ We use Docker to package the FastAPI application.
 ```bash
 # Build the image
 gcloud builds submit --tag gcr.io/[PROJECT_ID]/naribot-core <to be updated soon>
+
+
+---
+
+## 🔌 Deployment Model (Reference Architecture)
+
+NariBot operates as a modular system integrating multiple layers:
+
+### 1. Telecom Layer
+- USSD Gateway (menu-based interaction)
+- IVR system (voice-based interaction)
+
+### 2. Application Layer
+- NariBot Core (this repository)
+- Handles orchestration, routing, and logic execution
+
+### 3. AI Layer
+- External LLM provider (e.g., Google Gemini)
+- Used for generating contextual livelihood guidance
+
+### 4. Data Layer
+- Localized datasets and scheme repositories (not included in this repo)
+
+---
+
+## ⚠️ Notes
+
+- This repository does not include production credentials, API keys, or telecom configurations  
+- External integrations (Gemini, telecom providers) must be configured separately  
+- Deployment must comply with local telecom and data protection regulations  
