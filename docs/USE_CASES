@@ -1,0 +1,48 @@
+# NariBot - Use Cases
+
+## 1. Business Idea Discovery
+
+User Goal:
+Identify a viable livelihood option based on local context
+
+Flow:
+- User selects language
+- Inputs interest (e.g., tailoring, food)
+- NariBot suggests options with feasibility guidance
+
+---
+
+## 2. Government Scheme Discovery
+
+User Goal:
+Find relevant government schemes
+
+Flow:
+- User selects category (loan, subsidy, training)
+- NariBot filters schemes based on eligibility
+- Provides next steps
+
+---
+
+## 3. Guided Next Steps
+
+User Goal:
+Understand what to do after selecting an option
+
+Flow:
+- NariBot breaks down actions:
+  - registration
+  - documentation
+  - local contacts
+
+---
+
+## 4. Voice-first Interaction (IVR)
+
+User Goal:
+Access guidance without literacy barriers
+
+Flow:
+- User calls IVR number
+- Speaks in local language
+- Receives structured guidance
