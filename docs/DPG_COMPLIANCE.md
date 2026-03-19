@@ -1,4 +1,4 @@
-# NariBot – DPG Compliance Notes
+# NariBot - DPG Compliance Notes
 
 ## 1. Open Source & Accessibility
 NariBot Core is released under the Apache 2.0 License, enabling reuse, adaptation, and deployment across geographies.
