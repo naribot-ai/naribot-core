@@ -1,7 +1,7 @@
 # NariBot Core (α) 🚺💰
 Navigating livelihood pathways for the next billion through vernacular AI and low-bandwidth channels.
 
-NariBot is a Digital Public Infrastructure (DPI) project designed to bridge the economic divide for women job seekers and micro-entrepreneurs. While most AI assistants require smartphones and high-speed data, NariBot delivers intelligence over USSD, IVR, and feature-phone-friendly interfaces.
+NariBot is a Digital Public Infrastructure (DPI)-aligned, open-source AI system designed to bridge the economic divide for women job seekers and nano and micro-entrepreneurs. While most AI assistants require smartphones and high-speed data, NariBot delivers intelligence over missed call, IVR, USSD, and feature-phone-friendly interfaces.
 
 ---
 
@@ -59,9 +59,11 @@ This repository provides core orchestration logic and reference structures.
 ## 🌍 SDG Alignment
 NariBot contributes to:
 
+- **SDG 1** - No Poverty  
 - **SDG 5** - Gender Equality  
 - **SDG 8** - Decent Work & Economic Growth  
 - **SDG 9** - Industry, Innovation & Infrastructure  
+- **SDG 10** - Reduced Inequalities  
 
 ---
 
@@ -88,4 +90,4 @@ This project is licensed under the Apache 2.0 License. See the LICENSE file for 
 
 ---
 
-Built by BossMa Studio Works - Empowering livelihoods through accessible tech.
+Built and maintained by BossMa Studio Works Pvt. Ltd. - Empowering livelihoods through accessible tech.
